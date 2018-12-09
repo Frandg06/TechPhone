@@ -1,0 +1,223 @@
+			body {
+				background-image: url("../img/fondo.jpg");
+				background-repeat: repeat;
+			}
+			img#logo {
+				width:200px;
+				height:100px;
+			}
+			div#center {
+				overflow:hidden;
+				background-color: #212426;
+				width:100%
+			}
+			div#izquierda {
+				float: left;
+				width: 22%;
+				margin: auto;
+				padding-left: 10px;
+			}
+			div#derecha {
+				float: right;
+				margin: auto;
+				width: 22%;
+				padding-top: 30px;
+				padding-right: 10px;
+			}
+			div#centro {
+				float: left;
+				text-aling: center;
+				width: 50%;
+			}
+			header table {
+				color: white;
+			}
+			header td {
+				text-align: center;
+				font-family: impact; 
+				padding: 0px 5px;
+			}	
+			table#tabla_cabecera { 
+				margin: 0 auto;
+			}
+			td#navegacion:hover {
+				font-size:18px;
+			}
+			
+			div#seccioncentro {
+				overflow: hidden;
+			}
+			div#seccion {
+				float: left;
+				width: 65%;
+				margin-left: 30px;
+				margin-top: 20px;
+				background-image: url("../img/fondosection.jpg")
+			}
+			div#seccionder {
+				float: right;
+				width: 30%;
+				margin-left: 30px;
+				margin-top: 20px;
+				background-image: url("../img/fondosection.jpg")
+			}
+			img#grande:hover {
+				transform:scale(1.03);
+			}
+			img#medio:hover {
+				transform:scale(1.03)
+			}
+			img#grande {
+				width:800px;
+				height:400px;
+			}
+			img#medio {
+				width:400px;
+				height:200px;
+				text-align: right;
+			}
+			img#medio1 {
+				width:400px;
+				height:200px;
+				text-align: right;
+			}
+			img#medio1 {
+				width:400px;
+				height:200px;
+			}
+			section table {
+				margin: 0 auto;
+				padding-top: 20px;
+				
+			}
+			table#noticiastabla {
+				width:90%;
+			}
+			div#sectionizq {
+				float: left;
+				width: 40%;
+				margin: 0 auto;
+			}
+			div#sectionder {
+				float: right;
+				width: 60%;
+			}
+			table#noticiastabla, tr#noticias, td#noticias {
+				padding: 13px;
+				border: 2px solid #FF7800;
+				font-family: arial;
+				border-collapse: collapse;
+			}
+			table#noticias,{
+				padding-bottom: 50px;
+			}
+			img#fotopie:hover {
+				transform:scale(1.03)
+			}
+			img#fotopie {
+				width: 90%;
+			}
+			span#titulosnoticias:hover {
+				color:#FF7800;
+				
+			}
+			span#titulosnoticias {
+				font-size: 20px;
+				font-weight: bold;
+			}
+			table#noticiastabla {
+				margin-bottom: 20px;
+			}
+			
+			div#footercenter {
+				overflow:hidden;
+				background-color: #212426;
+				width: 100%;
+				margin-top: 20px;
+				text-align:center;
+				color:white;
+				font-family: arial;
+				font-weight: bold; 
+				padding: 20px 0px 20px 0px;
+			}
+			div#derecha2 {
+				float: right;
+				padding: 5px 0px;
+				width: 20%;
+				text-align: left;
+			}
+			section a {
+				color: black;
+				font-family: impact;
+			}
+			section a:hover {
+				color: #FF7800;
+			}
+			 header a:hover {
+				color: #FF7800;
+			}
+			header a, footer a {
+				color: white;
+			}
+			p#desarrollo {
+				color: black;
+				font-family: arial;
+				padding: 20px 100px;
+			}
+			p#desarrolloimg {
+				text-align: center;
+				padding: 20px 100px;
+			}
+			h1#titulosnoticias {
+				font-family: arial;
+				padding: 20px 100px;
+			}
+			h2#titulosnoticias {
+				font-family: arial;
+				padding: 20px 100px;
+			}
+			h3#titulosnoticias {
+				font-family: arial;
+				padding: 20px 100px;
+			}
+			h4#titulosnoticias {
+				font-family: arial;
+				padding: 20px 100px;
+			}
+			p#desarrolloimg img {
+				width:70%;
+			}
+			p#filtros {
+				background-color: grey;
+				border: 1px black solid;
+				width:90%;
+				margin-left: auto;
+				margin-right: auto;
+				padding: 10px;
+				text-align: right;
+			}
+			span#preciomovil {
+				text-align: right;
+				float: right;
+				margin-right: 20px;
+				margin-top: 7%;
+				font-size: 40px;
+				font-family: impact;	
+			}
+			p#lateral {
+				text-align: center;
+			}
+			table#masvendidos td {
+				padding: 5px 15px;
+				border: 2px solid #FF7800;
+				background-color: #FEC18C;
+			}
+			table#masvendidos {
+				border: 2px solid #FF7800;
+				border-collapse: collapse;
+				font-family: comic sans ms;
+			}
+			table#masvendidos th {
+				border: 2px solid #FF7800;
+				background-color: #FF9438;
+			}
